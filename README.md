@@ -1,5 +1,6 @@
 # YandexCupRecSys23
 Defining musical genres of tracks
+(Average Precision metric)
 
 Solutions based on **AttentionXML** model (Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification)
 
