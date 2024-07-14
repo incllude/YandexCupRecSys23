@@ -2,7 +2,7 @@
 Defining musical genres of tracks
 (Average Precision metric)
 
-Solutions are based on [AttentionXML model](https://arxiv.org/abs/1811.01727))
+Solutions are based on [AttentionXML model](https://arxiv.org/abs/1811.01727)
 
 **Original** model:
 - private score **0.0912**
